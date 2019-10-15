@@ -1,0 +1,2 @@
+iframe src=slader.html frameborder=0 style=border 2px solid white width=1050 height=350 align=center marginheight=40 marginwidth=10 scrolling=no
+iframe

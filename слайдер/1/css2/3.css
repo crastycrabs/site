@@ -1,0 +1,30 @@
+#header.logo1 {
+ position: absolute;
+ margin: 65px 0 0 282px;
+ z-index: 100;
+}
+.logo1 img {
+	border: none;		
+	margin: 0px;		
+}
+ 
+.logo1 a img {
+	border: none;		
+	margin: 0px;			
+}
+
+
+.poisk1 {
+ position: absolute;
+ margin: 65px 0 0 282px;
+ z-index: 100;
+}
+.logo1 img {
+	border: none;		
+	margin: 0px;		
+}
+ 
+.logo1 a img {
+	border: none;		
+	margin: 0px;			
+}
